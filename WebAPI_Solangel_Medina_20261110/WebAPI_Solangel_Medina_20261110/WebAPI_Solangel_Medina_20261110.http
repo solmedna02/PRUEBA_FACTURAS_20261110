@@ -1,0 +1,6 @@
+@WebAPI_Solangel_Medina_20261110_HostAddress = http://localhost:5299
+
+GET {{WebAPI_Solangel_Medina_20261110_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
